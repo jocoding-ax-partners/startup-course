@@ -1,0 +1,9 @@
+{
+  "name": "startup-course",
+  "version": "0.1.0",
+  "description": "모두의창업 바이브코딩 창업 과정 실습 스킬: 아이템 시장 진단(market-diagnosis)과 사전 신청 랜딩페이지 기획(landing-page)",
+  "author": {
+    "name": "조코딩AX파트너스"
+  },
+  "keywords": ["창업", "시장진단", "랜딩페이지", "강의"]
+}
